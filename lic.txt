@@ -1,0 +1,1111 @@
+{
+  "licenses": {
+
+    "8995444e4a85a18d68220658f8a4365a": {
+    "user": "rrr",
+	"Binary": "1111110JzQsNC50LrRgNC+0YHQvtGE0YIgV2luZG93cyAxMCBQcm8KSE9NRS1QQwowMDMzMS0xMDAwMC0wMDAwMS1BQTI5NgpLSU5HU1RPTiBTTlZTNTAwRwowMDAwXzAwMDBfMDAwMF8wMDAwXzAwMjZfQjc3OF80QjZBX0IwRjUuClN5c3RlbSBQcm9kdWN0IE5hbWUKNEQ3NjAxQUQtNkQ0NC0zOTM1LTI2MTItODhEN0Y2M0NGQ0Y1CkFNRCBSeXplbiA1IDM2MDAgNi1Db3JlIFByb2Nlc3NvciAgICAgICAgICAgICAgCjE3OEJGQkZGMDA4NzBGMTANCjg5OTU0NDRlNGE4NWExOGQ2ODIyMDY1OGY4YTQzNjVhDQp0ZXN0MS4w11111",
+	"message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
+	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+	"execute": false,
+	"test1.0": {
+		"expire": "2024/11/01",
+		"warning": 14,
+		"ontime": false,
+		"run": true
+		}
+	},
+
+
+
+
+
+
+
+
+
+    "494009e11dcb8816ee7d7eddf0ef3c73": {
+      "user": "ТДС",
+      "pcname": "FURNITURE-PC02, Майкрософт Windows 10 Корпоративная LTSC, 00425-00000-00002-AA833, CT500P5PSSD8, 0000_0000_0000_0001_00A0_7521_313F_8838., B560M-HDV, B859A1A8-7D08-0000-0000-000000000000, Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz, BFEBFBFF000A0653",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (telegram: @meel_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "redaktnaimmaterpanelej2.0": {
+        "expire": "2024/07/31",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "redaktsmety1.0": {
+        "expire": "2024/07/31",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2024/07/31",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      }
+    },
+    "a0c8fcd4f4736af5b1b64c1997986023": {
+      "user": "ТДС",
+      "pcname": "FURNITURE-PC04, Майкрософт Windows 10 Корпоративная LTSC FURNITURE-PC04 00425-00000-00002-AA542 KINGSTON SNV2S500G 0000_0000_0000_0000_0026_B738_29DC_A815. B560M-HDV B859A1A8-6D09-0000-0000-000000000000 Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz BFEBFBFF000A0653",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (telegram: @meel_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "redaktnaimmaterpanelej2.0": {
+        "expire": "2024/07/31",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "redaktsmety1.0": {
+        "expire": "2024/07/31",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2024/07/31",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      }
+    },
+    "6297930ee2ff318da952328d783dc426": {
+      "user": "МК",
+      "pcname": "TECH-4",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (telegram: @meel_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "sohranit1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitkak1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "eksportizobrazhenia1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2021/10/14",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      }
+    },
+    "f75f34e1320d950f580625daa743804c": {
+      "user": "LOFT",
+      "pcname": "TECH-1",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (telegram: @meel_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "sohranit1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitkak1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "eksportizobrazhenia1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2021/10/14",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      }
+    },
+    "8494c8814a44e5b23489dc5e88d527c6": {
+      "user": "LOFT",
+      "pcname": "DESIGNER-1",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (telegram: @meel_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "sohranit1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitkak1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "eksportizobrazhenia1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2021/10/14",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      }
+    },
+    "3721ac39c5f6cc574c8770105204160a": {
+      "user": "LOFT",
+      "pcname": "DESIGNER-2",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (telegram: @meel_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "sohranit1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitkak1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "eksportizobrazhenia1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2021/10/14",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      }
+    },
+    "a452261a5c97684d0ceb35243f5074a8": {
+      "user": "Igor",
+      "pcname": "TECH",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (telegram: @meel_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "sohranit1.0": {
+        "expire": "2022/05/06",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "sohranitkak1.0": {
+        "expire": "2022/05/06",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "eksportizobrazhenia1.0": {
+        "expire": "2022/05/06",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2022/05/06",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "redaktnaimmaterpanelej2.0": {
+        "expire": "2022/05/06",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "vybratponomeru1.0": {
+        "expire": "2022/05/06",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "cutsdeg1.0": {
+        "expire": "2022/05/06",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "zamenapaneleysborok1.0": {
+        "expire": "2022/05/06",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "zamenanomenklaturysborok1.0": {
+        "expire": "2022/05/06",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "opredelitobrabotki1.0": {
+        "expire": "2022/05/06",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "rasstanovkapolok1.0": {
+        "expire": "2022/05/06",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "redaktsmety1.0": {
+        "expire": "2022/05/06",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "skruglenieuglov1.0": {
+        "expire": "2022/05/06",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "plintus1.0": {
+        "expire": "2022/05/06",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "test1.0": {
+        "expire": "2022/05/06",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      }
+    },
+    "7b607b46b266e6f1946a699cc8976bb4": {
+      "user": "ДиВ TECH",
+      "pcname": "TECH 00371-868-0000007-85727 HP SSD SCSI Disk Device HASA23231105561 To Be Filled By O.E.M. 9BC28570-3D0B-0000-0000-000000000000 Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz BFEBFBFF000906EB",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (telegram: @meel_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "sohranit1.0": {
+        "expire": "2024/01/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitkak1.0": {
+        "expire": "2024/01/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitcnc1.0": {
+        "expire": "2024/01/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitfragment1.0": {
+        "expire": "2024/01/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "eksportizobrazhenia1.0": {
+        "expire": "2024/01/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2024/01/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktnaimmaterpanelej2.0": {
+        "expire": "2024/01/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "vybratponomeru1.0": {
+        "expire": "2024/01/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "cutsdeg1.0": {
+        "expire": "2024/01/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "zamenapaneleysborok1.0": {
+        "expire": "2024/01/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "zamenanomenklaturysborok1.0": {
+        "expire": "2024/01/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "opredelitobrabotki1.0": {
+        "expire": "2024/01/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "rasstanovkapolok1.0": {
+        "expire": "2024/01/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktsmety1.0": {
+        "expire": "2024/01/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "skruglenieuglov1.0": {
+        "expire": "2024/01/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "plintus1.0": {
+        "expire": "2024/01/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "test1.0": {
+        "expire": "2024/01/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "selecthorizholes1.0": {
+        "expire": "2024/01/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      }
+    },
+    "2d7102cbde61a7fbff5c71f761e4b580": {
+      "user": "ГМ-sm",
+      "pcname": "ASUS WDC PC SN530 SDBPNPZ-512G-1002 E823_8FA6_BF53_0001_001B_448B_4946_9F77. ASUS TUF Gaming A15 FA506II 878E352C-02CD-0642-A50C-18DD4D330E31 AMD Ryzen 5 4600H with Radeon Graphics 178BFBFF00860F01",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (telegram: @meel_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "sohranit1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitkak1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitfragment1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "eksportizobrazhenia1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktnaimmaterpanelej2.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "vybratponomeru1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "cutsdeg1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "zamenapaneleysborok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "zamenanomenklaturysborok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "opredelitobrabotki1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "rasstanovkapolok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktsmety1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "skruglenieuglov1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "plintus1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      }
+    },
+    "322a8433606ca14ef877bd9ee194c8aa": {
+      "user": "anna",
+      "pcname": "ANNA-PC 00426-OEM-8992662-00010 ST500LT012-1DG142 ATA Device W3PB3XAS HP ProBook 455 G2 D676D296-FDDF-11E2-B301-907292000029 AMD A8-7100 Radeon R5, 8 Compute Cores 4C+4G 178BFBFF00630F01",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (telegram: @meel_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "sohranit1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitkak1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitfragment1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "eksportizobrazhenia1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktnaimmaterpanelej2.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "vybratponomeru1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "cutsdeg1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "zamenapaneleysborok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "zamenanomenklaturysborok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "opredelitobrabotki1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "rasstanovkapolok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktsmety1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "skruglenieuglov1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "plintus1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      }
+    },
+    "db548098b16fd8eae0fda6cbca442b47": {
+      "user": "ГМ-vWin11",
+      "pcname": "TECH-1",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "sohranit1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitkak1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "eksportizobrazhenia1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktnaimmaterpanelej2.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "vybratponomeru1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "cutsdeg1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "zamenapaneleysborok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "zamenanomenklaturysborok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "opredelitobrabotki1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "rasstanovkapolok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktsmety1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "skruglenieuglov1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "plintus1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "test1.0": {
+        "expire": "2022/05/06",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      }
+    },
+    "cfd3f84a6f492ecb92bc2bd2a87e68d2": {
+      "user": "ГМ-user",
+      "pcname": "TECH-2 NVMe Patriot M.2 P300 SCSI Disk Device 0000_0000_0000_0001. MS-7C31 DACA4B9B-4FC8-5E1E-AD9D-2CF05D6C92B0 Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz BFEBFBFF000906EB",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "sohranit1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitkak1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "eksportizobrazhenia1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktnaimmaterpanelej2.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "vybratponomeru1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "cutsdeg1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "zamenapaneleysborok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "zamenanomenklaturysborok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "opredelitobrabotki1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "rasstanovkapolok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktsmety1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "plintus1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "skruglenieuglov1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      }
+    },
+    "29d0a9f4a719258b8ce6d4a5770abc1e": {
+      "user": "ГМ-Елена-Дом",
+      "pcname": "Майкрософт Windows 10 Pro DESKTOP-SOVFAL7 00330-80000-00000-AA041 Samsung SSD 870 EVO 250GB S6P2NM0T835787W To Be Filled By O.E.M. 9AC28570-A13C-0000-0000-000000000000 AMD Athlon 200GE with Radeon Vega Graphics 178BFBFF00810F10",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "sohranit1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "sohranitkak1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "eksportizobrazhenia1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "redaktnaimmaterpanelej2.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "vybratponomeru1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "cutsdeg1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "zamenapaneleysborok1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "zamenanomenklaturysborok1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "opredelitobrabotki1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "rasstanovkapolok1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "redaktsmety1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "skruglenieuglov1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "plintus1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      }
+    },
+    "109cac3819b0b62ab41b5b655da8d85b": {
+      "user": "ГМ-Елена-Дом2",
+      "pcname": "DESKTOP-1LP2A8V 00342-21911-77715-AAOEM SAMSUNG MZALQ512HBLU-00BL2 0025_38D4_1111_230E. 82K2 F9416D90-0ED1-11EC-810C-7C8AE19CE100 AMD Ryzen 5 5600H with Radeon Graphics 178BFBFF00A50F00",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "sohranit1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "sohranitkak1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "eksportizobrazhenia1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "redaktnaimmaterpanelej2.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "vybratponomeru1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "cutsdeg1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "zamenapaneleysborok1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "zamenanomenklaturysborok1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "opredelitobrabotki1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "rasstanovkapolok1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "redaktsmety1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "skruglenieuglov1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "plintus1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      }
+    },
+    "c98cf1d6c8495ec86ab28b4c357d06af": {
+      "user": "ГМ-Елена-Дом3",
+      "pcname": "Майкрософт Windows 11 Домашняя WIN-MRJKQ8FUNSF 00342-22167-74709-AAOEM GeIL P3L 1TB 0000_0000_0000_0000_00E0_4C70_0A23_C423. HP Laptop 17-cp3xxx 0F3F4DBC-5984-C146-92DB-FF817CF33908 AMD Ryzen 7 7730U with Radeon Graphics 178BFBFF00A50F00",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "sohranit1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "sohranitkak1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "eksportizobrazhenia1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "redaktnaimmaterpanelej2.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "vybratponomeru1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "cutsdeg1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "zamenapaneleysborok1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "zamenanomenklaturysborok1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "opredelitobrabotki1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "rasstanovkapolok1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "redaktsmety1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "skruglenieuglov1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "plintus1.0": {
+        "expire": "2025/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      }
+    },
+    "e9967107f982448d7301061b53fbdc61": {
+      "user": "МК-Денис",
+      "pcname": "WIN-QPE5KF8C58B Q2532C C7939580-CE92-81E0-22A2-386077483E2E Intel(R) Core(TM) i5-2540M CPU @ 2.60GHz BFEBFBFF000206A7",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "sohranit1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitkak1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "eksportizobrazhenia1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "opredelitobrabotki1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktnaimmaterpanelej2.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      }
+    }
+  }
+}
