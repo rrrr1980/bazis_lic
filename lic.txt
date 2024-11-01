@@ -1,7 +1,7 @@
 {
   "licenses": {
 
-    "8995444e4a85a18d68220658f8a4365a": {
+    "8995444e4a85a18d68220658f8a4365a1234": {
     "user": "rrr",
 	"Binary": "1111110JzQsNC50LrRgNC+0YHQvtGE0YIgV2luZG93cyAxMCBQcm8KSE9NRS1QQwowMDMzMS0xMDAwMC0wMDAwMS1BQTI5NgpLSU5HU1RPTiBTTlZTNTAwRwowMDAwXzAwMDBfMDAwMF8wMDAwXzAwMjZfQjc3OF80QjZBX0IwRjUuClN5c3RlbSBQcm9kdWN0IE5hbWUKNEQ3NjAxQUQtNkQ0NC0zOTM1LTI2MTItODhEN0Y2M0NGQ0Y1CkFNRCBSeXplbiA1IDM2MDAgNi1Db3JlIFByb2Nlc3NvciAgICAgICAgICAgICAgCjE3OEJGQkZGMDA4NzBGMTANCjg5OTU0NDRlNGE4NWExOGQ2ODIyMDY1OGY4YTQzNjVhDQp0ZXN0MS4w11111",
 	"message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
