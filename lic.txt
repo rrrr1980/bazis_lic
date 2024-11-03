@@ -21,7 +21,7 @@
 	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
 	"execute": false,
 	"kupe1.0": {
-		"expire": "2024/11/03",
+		"expire": "2024/11/05",
 		"warning": 4,
 		"ontime": true,
 		"run": true
