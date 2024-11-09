@@ -16,7 +16,7 @@
 
 
 
-    "5463b7daa2e3ac16339b20f121e50389dfa8e5acbd2dde27605e036939d0011bee4575cd10003c9e9902e7a7e5870a6f0f29c235ebe4258634b8229cd24879738a355aaffc1d8e68ebc710ff3ba5bca0abbd8f8b6d65d8b556e06f2961f1b72b": {
+    "1115463b7daa2e3ac16339b20f121e50389dfa8e5acbd2dde27605e036939d0011bee4575cd10003c9e9902e7a7e5870a6f0f29c235ebe4258634b8229cd24879738a355aaffc1d8e68ebc710ff3ba5bca0abbd8f8b6d65d8b556e06f2961f1b72b": {
 	"user": "rrrr1980",
 	"message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
 	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
@@ -24,7 +24,7 @@
 	"kupe1.0": {
 		"expire": "2024/11/18",
 		"warning": 7,
-		"ontime": false,
+		"ontime": true,
 		"run": true
 		}
 	},
