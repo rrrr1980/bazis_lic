@@ -8,7 +8,7 @@
 	"execute": false,
 	"kupe1.0": {
 		"expire": "2025/07/01",
-		"warning": 14,
+		"warning": 3,
 		"ontime": true,
 		"run": true
 		}
@@ -23,7 +23,7 @@
 	"execute": false,
 	"kupe1.0": {
 		"expire": "2024/11/18",
-		"warning": 14,
+		"warning": 7,
 		"ontime": false,
 		"run": true
 		}
