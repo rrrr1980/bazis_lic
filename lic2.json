@@ -25,7 +25,7 @@
 		"expire": "2024/11/08",
 		"warning": 7,
 		"ontime": true,
-		"run": false
+		"run": true
 		}
 	},
 
