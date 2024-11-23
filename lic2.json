@@ -53,7 +53,7 @@
 
     "204229e77dcb8816ee8d9eaaf0ef3c30": {
       "user": "USER-1",
-      "pcname": "FURNITURE-Computer, Майкрософт Windows 10 Корпоративная LTSC, Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz,
+      "pcname": "FURNITURE-Computer, Майкрософт Windows 10 Корпоративная LTSC, Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
       "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (telegram: )",
       "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
       "execute": false,
