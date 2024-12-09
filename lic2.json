@@ -46,7 +46,7 @@
 		},
 	"kupe2.0": {
 		"expire": "2024/12/08",
-		"warning": 3,
+		"warning": 1,
 		"ontime": true,
 		"run": true
 		}
