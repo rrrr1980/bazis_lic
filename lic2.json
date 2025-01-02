@@ -18,7 +18,7 @@
 
 
 	  
-    "e0f5042ece48053ab87de959ecf57740b76bf0d1819e5edd49eab12db83836d136f83fc680749f48614a7906469c8ed6265b24ec5919c05c75f4880ed9407039f333233bf5a9d3c075e3b0f0ef95ebe8b9109372f1bbdd6bed2294094afec4f8": {
+    "40456d246ee33a0545e4588cdd864ded77a62a70eb98aefe360e7dd7005331cef1ef7ed6a1b254fcbe265347703d9d32b68f758d1c21130b8c53a5cdad768020d28eedea0c49e69bce4b8f0dd4aec96c05613cb024e71472047dc1781fbd0391": {
 	"user": "@Andrei_A_V_M",
 	"message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
 	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
