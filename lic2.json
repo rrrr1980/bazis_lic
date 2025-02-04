@@ -57,9 +57,9 @@
 	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
 	"execute": false,
 	"kupe1.0": {
-		"expire": "2029/11/14",
+		"expire": "2039/12/31",
 		"warning": 7,
-		"ontime": true,
+		"ontime": false,
 		"run": true
 		}
 	},
@@ -73,13 +73,13 @@
 	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
 	"execute": false,
 	"kupe1.0": {
-		"expire": "2025/02/05",
+		"expire": "2025/02/10",
 		"warning": 3,
 		"ontime": true,
 		"run": true
 		},
 	"kupe2.0": {
-		"expire": "2025/02/05",
+		"expire": "2025/02/10",
 		"warning": 1,
 		"ontime": true,
 		"run": true
