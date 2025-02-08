@@ -88,13 +88,13 @@
 	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
 	"execute": false,
 	"kupe1.0": {
-		"expire": "2025/02/01",
+		"expire": "2025/02/15",
 		"warning": 3,
 		"ontime": true,
 		"run": true
 		},
 	"kupe2.0": {
-		"expire": "2025/02/01",
+		"expire": "2025/02/15",
 		"warning": 1,
 		"ontime": true,
 		"run": true
