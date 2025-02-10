@@ -98,8 +98,14 @@
 		"warning": 1,
 		"ontime": true,
 		"run": true
+		},
+	"kupe3.0": {
+		"expire": "2025/02/16",
+		"warning": 1,
+		"ontime": true,
+		"run": true
 		}
-	},
+    },
 
 	  
 
