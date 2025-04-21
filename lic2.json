@@ -94,13 +94,13 @@
 		"run": true
 		},
 	"kupe2.0": {
-		"expire": "2025/04/20",
+		"expire": "2025/04/25",
 		"warning": 1,
 		"ontime": true,
 		"run": true
 		},
 	"kupe3.0": {
-		"expire": "2025/04/20",
+		"expire": "2025/04/25",
 		"warning": 1,
 		"ontime": true,
 		"run": true
