@@ -17,21 +17,6 @@
 	},
 
 
-	  
-	  
-    "40456d246ee33a0545e4588cdd864ded77a62a70eb98aefe360e7dd7005331cef1ef7ed6a1b254fcbe265347703d9d32b68f758d1c21130b8c53a5cdad768020d28eedea0c49e69bce4b8f0dd4aec96c05613cb024e71472047dc1781fbd0391": {
-	"user": "@Andrei_A_V_M_Можно отключить_перешел на локальную",
-	"message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
-	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
-	"execute": false,
-	"kupe1.0": {
-		"expire": "2024/12/31",
-		"warning": 7,
-		"ontime": true,
-		"run": true
-		}
-	},
-
 
 
  "40456d246ee33a0545e4588cdd864dedcdca18f6c03fd909ee548e2885c5f16f971b615be4a47ced8f4e75deb61ecffc119f5c08671f89a6f3a9f5c80290ac676a025d18c76dd85d4449fe1561e3c1192b04c3914c82280c2706393e7dde82f9": {
