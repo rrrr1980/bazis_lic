@@ -129,19 +129,19 @@
       "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
       "execute": false,
       "script1_2.0": {
-        "expire": "2025/07/31",
+        "expire": "2025/08/05",
         "warning": 14,
         "ontime": true,
         "run": true
       },
       "script2_1.0": {
-        "expire": "2025/07/31",
+        "expire": "2025/08/05",
         "warning": 14,
         "ontime": true,
         "run": true
       },
       "script3_1.0": {
-        "expire": "2025/07/31",
+        "expire": "2025/08/05",
         "warning": 14,
         "ontime": true,
         "run": true
