@@ -101,19 +101,19 @@
 	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
 	"execute": false,
 	"kupe1.0": {
-		"expire": "2025/08/03",
+		"expire": "2025/08/15",
 		"warning": 2,
 		"ontime": true,
 		"run": true
 		},
 	"kupe2.0": {
-		"expire": "2025/08/03",
+		"expire": "2025/08/15",
 		"warning": 2,
 		"ontime": true,
 		"run": true
 		},
 	"kupe3.0": {
-		"expire": "2025/08/03",
+		"expire": "2025/08/15",
 		"warning": 2,
 		"ontime": true,
 		"run": true
