@@ -2,6 +2,7 @@
   "licenses": {
 
 
+
 	  
     "5463b7daa2e3ac16339b20f121e50389dfa8e5acbd2dde27605e036939d0011bee4575cd10003c9e9902e7a7e5870a6f0f29c235ebe4258634b8229cd24879738a355aaffc1d8e68ebc710ff3ba5bca0abbd8f8b6d65d8b556e06f2961f1b72b": {
 	"user": "rrrr1980",
@@ -18,6 +19,7 @@
 
 	  
 
+	  
     "5463b7daa2e3ac16339b20f121e50389dfa8e5acbd2dde27605e036939d0011bee4575cd10003c9e9902e7a7e5870a6ff1b828770e9b1e6d37c1a3708e0c6267": {
 	"user": "rrrr1980_2",
 	"message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
@@ -30,6 +32,7 @@
 		"run": true
 		}
 	},
+
 
 
 	  
@@ -47,6 +50,7 @@
 	},
 
 
+
 	  
  "40456d246ee33a0545e4588cdd864dedcdca18f6c03fd909ee548e2885c5f16f971b615be4a47ced8f4e75deb61ecffcb07c05ff17760417263adf0d5c2c7baf": {
 	"user": "@Yamoonii_2",
@@ -62,6 +66,7 @@
 	},
 
 	  
+
 	  
  "e0f5042ece48053ab87de959ecf5774031bbf6def94276c489f608335016b98799888f18d3e0c677a124c8097f38cd83d9a17e9fa84c675840a023ae417b66f76c229b685893258167cc23cce9cb5ef44c332b6260dda87442ca9f989ddd0118": {
 	"user": "@Evgeniy_sms",
@@ -108,9 +113,25 @@
 		}
 	},
 
+	  
+
+
+    "e0f5042ece48053ab87de959ecf57740e30379c734412822533614f2baace007d69b4e579d304d6f7e8cc55e45dcfad448c4bbc3300296616df5c8266e41d9da": {
+	"user": "@mebel_velichcko_2",
+	"message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
+	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+	"execute": false,
+	"kupe1.0": {
+		"expire": "2039/12/31",
+		"warning": 7,
+		"ontime": false,
+		"run": true
+		}
+	},
 
 
 	  
+	  	    
     "4ca81ea628fea43a0fd3c9876dba9a852f1edd7a8266ad9c28cfe6062127bce24b96686f72a56e2eccf820108840f0d7c4103fe16d0d7cd8cbc13ac9e38b47bec23b8edef2db323caea0471f8b9eae00fea0d2ed822df930cdd83670ffd0e6a8": {
 	"user": "@ApW_WqA",
 	"message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
@@ -136,8 +157,37 @@
 		}
     },
 
+	  
 
 
+    "4ca81ea628fea43a0fd3c9876dba9a852f1edd7a8266ad9c28cfe6062127bce24b96686f72a56e2eccf820108840f0d748f779b9b1ae498714dd35dbc31d24bf": {
+	"user": "@ApW_WqA_2",
+	"message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
+	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+	"execute": false,
+	"kupe1.0": {
+		"expire": "2039/08/30",
+		"warning": 2,
+		"ontime": true,
+		"run": true
+		},
+	"kupe2.0": {
+		"expire": "2039/08/30",
+		"warning": 2,
+		"ontime": true,
+		"run": true
+		},
+	"kupe3.0": {
+		"expire": "2039/08/30",
+		"warning": 2,
+		"ontime": true,
+		"run": true
+		}
+    },	  
+
+
+
+	  
     "40456d246ee33a0545e4588cdd864dede12c39412a864768a1f09949d7ed1ee6de57e996e6c3a28be182611aab00344f33e3d03b4e68b615746f852c5027a4b848474d537d4dd97b7a722dfc5a945a23032314524afe17383d26ab0a8a9248d7": {
 	"user": "@Albus198603",
 	"message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
@@ -163,6 +213,35 @@
 		}
     },
 
+
+
+	  
+    "40456d246ee33a0545e4588cdd864dede12c39412a864768a1f09949d7ed1ee6de57e996e6c3a28be182611aab00344f13e1933fbc8c972681756eb31a92fe61": {
+	"user": "@Albus198603_2",
+	"message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
+	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+	"execute": false,
+	"kupe1.0": {
+		"expire": "2039/08/30",
+		"warning": 2,
+		"ontime": true,
+		"run": true
+		},
+	"kupe2.0": {
+		"expire": "2039/08/30",
+		"warning": 2,
+		"ontime": true,
+		"run": true
+		},
+	"kupe3.0": {
+		"expire": "2039/08/30",
+		"warning": 2,
+		"ontime": true,
+		"run": true
+		}
+    },
+
+	  
 	  
 	  
     "12345678123456781234567812345678": {
@@ -222,3 +301,5 @@
 
   }
 }
+
+
