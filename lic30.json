@@ -10,7 +10,7 @@
 	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
 	"execute": false,
 	"kupe30.0": {
-		"expire": "2025/12/12",
+		"expire": "2025/12/31",
 		"warning": 3,
 		"ontime": true,
 		"run": true
