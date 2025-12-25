@@ -3,7 +3,6 @@
 
 
 
-	  
     "ab814fb8ac4020b3e05b7298999e5a2b211c31731059ef06b8df4dae0e8ff5eaf65de849ba70f8f8a1501e43dd27d1c91fa9bb2a5aa8cf5e8ccdc7324271219725beac74773198a237d4b86bed4ad873": {
 	"user": "Home",
 	"message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
@@ -24,9 +23,30 @@
 	},
 
 
-	  
+
+    "db02922c5e084e3c6ff7484605211798363304b3a554c5e8ca80e709b236b7dca109639a8ea864dd5d123896332c54042a9d457affced31078eeb8bff649d67572731242008e7c8c3c20286d96e733355d80be00b7e3d998fecd319635c04bdb": {
+	"user": "Alex 2025_12_25",
+	"message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
+	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+	"execute": false,
+	"kupe30.0": {
+		"expire": "2024/12/31",
+		"warning": 3,
+		"ontime": true,
+		"run": true
+		},
+	"kupe40.0": {
+		"expire": "2035/12/31",
+		"warning": 3,
+		"ontime": true,
+		"run": true
+		}
+	},
+
+
+
     "6b3b9bcc62e8e3fb7611314c29874e4cbbe50b0eb76b59f3e1057ca0fd9da8ecdb6c2d9faffa98839c2c17352d8c87e48ce2e881432fc92be6ac746b4c2c5d4393b5e25838606fbf343e31aa1815028fa60d537fd6f97135a7bb87efd172734d": {
-	"user": "Макс",
+	"user": "Макс 2025_12_16",
 	"message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
 	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
 	"execute": false,
@@ -45,9 +65,9 @@
 	},
 
 
-	  
+
     "adbf61bc34dab9f52c7e79844bc416ee96269efaa220036b7b5ec8f5a6f6b96601a7d89bd3ca83c291dbe0516c70e74a7b6ee39a100b3f84ab2e706e9f6e71718b4c0a7b7fa06d4d22dca44601f7ab71bc38fe26852e7b215e530cf12e6f4e06": {
-	"user": "Иван",
+	"user": "Иван 2025_12_16",
 	"message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
 	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
 	"execute": false,
@@ -67,10 +87,8 @@
 
 
 
-	  
-	  
     "204229e77dcb8816ee8d9eaaf0ef3c30": {
-      "user": "USER-1",
+      "user": "DEMO USER",
       "pcname": "FURNITURE-Computer, Майкрософт Windows 10 Корпоративная LTSC, Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
       "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (telegram: )",
       "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
