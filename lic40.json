@@ -23,6 +23,27 @@
 	},
 
 
+	  
+    "7f40663946f694ae2742aed58fdca4d1a080d38ea4f961cbaec4f57ea06365a294883176b199ebadf3bd93cc9ca54b800012b297a36c10e47fd4bbaa2e048114a83d131ffbddb616b3d15138cb7312b2c0bea55f9e5b1828ebd0efff4152ff25": {
+	"user": "Шахматист Матович",
+	"message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
+	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+	"execute": false,
+	"kupe30.0": {
+		"expire": "2024/12/31",
+		"warning": 3,
+		"ontime": true,
+		"run": true
+		},
+	"kupe40.0": {
+		"expire": "2035/12/31",
+		"warning": 3,
+		"ontime": true,
+		"run": true
+		}
+	},
+
+
 
     "1d875ef2df0e3f119179355013c3d631be03629692e87a672a6e6c4d3b5cff0678ee2e54acc1cc8495800d822d4b64e364a23396a6f8946d78d9b1d46785a12c52754fbabcad1f40623b9f6432271e6ae2d305e3d373b8a99018a73fabb70f26": {
 	"user": "Mirusmeb 2026_01_14",
