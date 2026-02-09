@@ -23,6 +23,27 @@
 	},
 
 
+
+    "c794fad65c2dbc90c0e9e4e8c2b50dfbb9f3fc30bc3dd2831f507516329996c01f78792d62128c18a9a9ce17214ee4d39beece1d83b37deac20e2c9f4d46a223e15680ec7db1c11fa1275cfd926d41b9a9c2a276a1f93f502f75ba69df17152c": {
+	"user": "TEXHOILOG",
+	"message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
+	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+	"execute": false,
+	"kupe30.0": {
+		"expire": "2024/12/31",
+		"warning": 3,
+		"ontime": true,
+		"run": true
+		},
+	"kupe40.0": {
+		"expire": "2035/12/31",
+		"warning": 3,
+		"ontime": true,
+		"run": true
+		}
+	},
+
+
 	  
     "64e46ae002fa151199582a5af36db1c978ec7c2f5fbf65d29305316dbf777b2fe8fa65ac791c0cf82b85834a6bf0896117606ec0da7cd9488074db34279dc933afdacb66d3c08386bc2f89f99463721d": {
 	"user": "@Hakerman85 2026_01_29",
