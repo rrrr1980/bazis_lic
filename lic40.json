@@ -24,6 +24,48 @@
 
 
 
+    "325207da079a157217f6bcba191a16b185b634fb1784cdce1152df722630c567f54f217e8af522dde00ea7fc6ce4efc588fc406db864631113f1e13f59c1b5a3f01f0727471950dbcce1245516945b02ebc6c17111b849f1cc33fc21659c614b": {
+	"user": "2026-02-20-1",
+	"message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
+	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+	"execute": false,
+	"kupe30.0": {
+		"expire": "2024/12/31",
+		"warning": 3,
+		"ontime": true,
+		"run": true
+		},
+	"kupe40.0": {
+		"expire": "2035/12/31",
+		"warning": 3,
+		"ontime": true,
+		"run": true
+		}
+	},
+
+
+
+    "1d875ef2df0e3f119179355013c3d6317505fa9bc3c1d23901a0a774ce3f23b28c25cdd46cd41988a6dcf2b8c32204c8b62aa2928c077122dcf54657148894354f13ff44434b08267451be704df4f918230a4077c112702447b91442cb14d4d6": {
+	"user": "2026-02-20-2",
+	"message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
+	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+	"execute": false,
+	"kupe30.0": {
+		"expire": "2024/12/31",
+		"warning": 3,
+		"ontime": true,
+		"run": true
+		},
+	"kupe40.0": {
+		"expire": "2035/12/31",
+		"warning": 3,
+		"ontime": true,
+		"run": true
+		}
+	},
+
+
+	  
     "c794fad65c2dbc90c0e9e4e8c2b50dfbb9f3fc30bc3dd2831f507516329996c01f78792d62128c18a9a9ce17214ee4d39beece1d83b37deac20e2c9f4d46a223e15680ec7db1c11fa1275cfd926d41b9a9c2a276a1f93f502f75ba69df17152c": {
 	"user": "TEXHOILOG",
 	"message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
