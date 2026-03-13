@@ -1,0 +1,53 @@
+{
+  "licenses": {
+
+
+
+    "b19e48ca071d8148f2eb265f0e67510cd91f09b2cc0d68a9923cbdaad43c28dbea4ad092a8e230809718117b88ee8cce4fef9dedb95f5b198bd8d4dc05183e8f5b9f0f6eef65280d6763a7e81b35277a": {
+	"user": "Home",
+	"message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
+	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+	"execute": false,
+	"zamena50.0": {
+		"expire": "2026/04/01",
+		"warning": 3,
+		"ontime": true,
+		"run": true
+		}
+	},
+
+
+
+
+    "204229e77dcb8816ee8d9eaaf0ef3c30": {
+      "user": "DEMO USER",
+      "pcname": "FURNITURE-Computer, Майкрософт Windows 10 Корпоративная LTSC, Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (telegram: )",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "script1_2.0": {
+        "expire": "2025/08/05",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "script2_1.0": {
+        "expire": "2025/08/05",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "script3_1.0": {
+        "expire": "2025/08/05",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      }
+    }
+
+
+
+  }
+}
+
+
