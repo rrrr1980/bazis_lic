@@ -9,7 +9,7 @@
 	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
 	"execute": false,
 	"zamena50.0": {
-		"expire": "2026/04/01",
+		"expire": "2026/05/01",
 		"warning": 3,
 		"ontime": true,
 		"run": true
