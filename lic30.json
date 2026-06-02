@@ -47,6 +47,30 @@
 
 
 
+    "b5a59c65ac1d9287bfb23f0c4394f2abe76cef49191d72703aa408ecc7215f427e7363f6ccd431d3ec684b2658479a18b060908efb9bf0309c16e99fabfd64f4507cccd3e0285fde1e50aed73a1be4b5b059a98b2621853499e85aba5a0c7ca2367da66a92898eeddf91e4ddef13d283": {
+	"user": "@Dmitriy_Vologzhanin_2",
+	"message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
+	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+	"execute": false,
+	"kupe30.0": {
+		"expire": "2035/12/24",
+		"warning": 3,
+		"ontime": true,
+		"run": true
+		},
+	"kupe40.0": {
+		"expire": "2024/12/31",
+		"warning": 3,
+		"ontime": true,
+		"run": true
+		}
+	},
+
+
+
+
+	  
+
 
 	  
     "204229e77dcb8816ee8d9eaaf0ef3c30": {
