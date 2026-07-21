@@ -30,6 +30,21 @@
 
 
 	  
+   "90a308ca018e3eef7b46c55e7d741b7afa93a0dbd4f0ba057bb4b22875a39bd79b96779f8329f1f4cd101bd7c21b00e073e5e717f3e99adf69206ca91e898cb425eec44c79ff664e8bcbf666de012df39094d9d626cb3b10a9d95e81dbe65fc74601ff94d86274a5eba71fe8706d2bf1": {
+	"user": "Денис БМ26 2026_07_21",
+	"message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
+	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+	"execute": false,
+	"kupe50.0": {
+		"expire": "2039/08/30",
+		"warning": 2,
+		"ontime": true,
+		"run": true
+		}
+    },
+
+
+	  
    "aade1a3afcc5e71ec44664817998ab1f0572bfed84748ef26993923d2fe76c03e309e3ca074339eb7557d52ac3e94ed004976c5fdf295cc59718a94e0840739e55f06420227eca7d64d4601e2c017f19": {
 	"user": "Дмитрий БМ26 2026_06_17",
 	"message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
