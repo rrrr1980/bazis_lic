@@ -2,7 +2,7 @@
   "licenses": {
 
 
-	"659d28b41f3f675adf37131ea7a2e623ec786a53d4af2ba06188ecbfc5caab598ccc1c2d10bbc62c078abb3f7489f9b15b4b1e7b339dfc55b0ef56cfa7e77f5353da3119d6208db5ee8f3a7acae8772f": {
+	"659d28b41f3f675adf37131ea7a2e623ec786a53d4af2ba06188ecbfc5caab598ccc1c2d10bbc62c078abb3f7489f9b15b4b1e7b339dfc55b0ef56cfa7e77f5353da3119d6208db5ee8f3a7acae8772f_000": {
 	"user": "Home",
 	"message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
 	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
