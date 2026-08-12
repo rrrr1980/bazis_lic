@@ -29,6 +29,21 @@
 	},
 
 
+
+    "f5940193e7b3b852bfb568b97987fc96bf6a1911793809bff69c4f2437a297db2727e60554030212636bdb041e8e18d6fa0b419f8f22c562d7f6374399e6975902f1447766e6edb6619f8cfec031fd49dba2c998b25ae7ee0f5e9650fb0cc7df": {
+	"user": "Шамиль 2026_08_12",
+	"message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
+	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+	"execute": false,
+	"kupe50.0": {
+		"expire": "2049/09/01",
+		"warning": 3,
+		"ontime": true,
+		"run": true
+		}
+	},
+
+	  
 	  
    "90a308ca018e3eef7b46c55e7d741b7afa93a0dbd4f0ba057bb4b22875a39bd79b96779f8329f1f4cd101bd7c21b00e073e5e717f3e99adf69206ca91e898cb425eec44c79ff664e8bcbf666de012df39094d9d626cb3b10a9d95e81dbe65fc74601ff94d86274a5eba71fe8706d2bf1": {
 	"user": "Денис БМ26 2026_07_21",
@@ -36,7 +51,7 @@
 	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
 	"execute": false,
 	"kupe50.0": {
-		"expire": "2039/08/30",
+		"expire": "2049/08/30",
 		"warning": 2,
 		"ontime": true,
 		"run": true
@@ -51,7 +66,7 @@
 	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
 	"execute": false,
 	"kupe50.0": {
-		"expire": "2039/08/30",
+		"expire": "2049/08/30",
 		"warning": 2,
 		"ontime": true,
 		"run": true
@@ -66,7 +81,7 @@
 	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
 	"execute": false,
 	"kupe50.0": {
-		"expire": "2039/08/30",
+		"expire": "2049/08/30",
 		"warning": 2,
 		"ontime": true,
 		"run": true
@@ -82,7 +97,7 @@
 	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
 	"execute": false,
 	"kupe50.0": {
-		"expire": "2039/08/30",
+		"expire": "2049/08/30",
 		"warning": 2,
 		"ontime": true,
 		"run": true
@@ -97,7 +112,7 @@
 	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
 	"execute": false,
 	"kupe50.0": {
-		"expire": "2039/08/30",
+		"expire": "2049/08/30",
 		"warning": 2,
 		"ontime": true,
 		"run": true
@@ -112,7 +127,7 @@
 	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
 	"execute": false,
 	"kupe50.0": {
-		"expire": "2039/08/30",
+		"expire": "2049/08/30",
 		"warning": 2,
 		"ontime": true,
 		"run": true
@@ -127,7 +142,7 @@
 	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
 	"execute": false,
 	"kupe50.0": {
-		"expire": "2039/08/30",
+		"expire": "2049/08/30",
 		"warning": 2,
 		"ontime": true,
 		"run": true
@@ -142,7 +157,7 @@
 	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
 	"execute": false,
 	"kupe50.0": {
-		"expire": "2039/08/30",
+		"expire": "2049/08/30",
 		"warning": 2,
 		"ontime": true,
 		"run": true
@@ -157,7 +172,7 @@
 	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
 	"execute": false,
 	"kupe50.0": {
-		"expire": "2039/08/30",
+		"expire": "2049/08/30",
 		"warning": 2,
 		"ontime": true,
 		"run": true
@@ -172,7 +187,7 @@
 	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
 	"execute": false,
 	"kupe50.0": {
-		"expire": "2039/08/30",
+		"expire": "2049/08/30",
 		"warning": 2,
 		"ontime": true,
 		"run": true
