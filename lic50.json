@@ -116,9 +116,8 @@
     },
 
 
-
 	  
-   "5edb6294ee0b333e391a0acc655b6b4ec4ddd40d4f8b9d84df17e21b74a51ed5c2bbaa98d75fe177309ed922d00c232889c2b42488d74895d5ef152414de44ceac7784e0c023ac26c868f9d73c96b020bca5406261ac663741c16df57147f9b2": {
+   "4aa48e64af6ea5af5d14a0edc67b6ec49ff9578d487df916eee2fcaead8f9351b7793d433a85422a9caa9ac73a6d53ec0de23432f29d69a6ad83a619fec158f0a269c2cd3ad959b8d39bd36adba670f0c56fef29d41e28352bf8d1acaf4e78dd": {
 	"user": "Даниил 2026_04_11",
 	"message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. (telegram: @mebel_style_redminote10pro)",
 	"code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
