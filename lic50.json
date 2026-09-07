@@ -15,7 +15,7 @@
 		"run": true
 		},
 	"kupe50.0": {
-		"expire": "2026/09/01",
+		"expire": "2026/12/01",
 		"warning": 3,
 		"ontime": true,
 		"run": true
